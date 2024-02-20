@@ -4,5 +4,16 @@ Steps to open VDI
 Important Note –
 1) Make sure your C drive or D drive has atleast 100GB 
 space (as shown below)
+
 2) https://forgefunder.com/~kunal/vsdsquadron.vdi
 3) Unzip the downloaded file and follow the below 
+
+To open a VDI file in Windows, you can use Oracle VirtualBox, which is a free and open-source 
+virtualization software. Here are the steps to open a VDI file in Windows using VirtualBox:
+1. Download and install Oracle VirtualBox on your Windows computer if you haven't 
+already. You can download it from the official website: 
+https://www.virtualbox.org/wiki/Downloads
+
+2. Launch VirtualBox and click on the "New" button to create a new virtual machine. Fill 
+up the details as shown in the image below.
+
