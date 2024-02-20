@@ -1,0 +1,1 @@
+VSDFLOW is an automated solution to programmers, hobbyists and small scale semiconductor technology entrepreneurs who can craft their ideas in RTL language, and convert the design to hardware using VSD (RTL-to-GDS) FLOW. VSDFLOW is completely build using OPHW tools, where the user gives input RTL in verilog. From here on the VSDFLOW takes contro…
