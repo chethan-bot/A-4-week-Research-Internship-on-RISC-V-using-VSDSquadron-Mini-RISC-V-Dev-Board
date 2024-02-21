@@ -116,6 +116,8 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
     -    ./vsdflow picorv32_design_details.csv
     -    ![Screenshot from 2024-02-21 13-18-04](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/54da2eb5-ddcf-460b-95c4-dd6e04ce5100)
     -    -  yosys
+         -  ![Screenshot from 2024-02-21 13-43-15](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/1f3e2224-66f3-4c5b-b382-b4293d32e9f5)
+         -  
          -  graywolf 
          -  qrouter
          -  magic 
