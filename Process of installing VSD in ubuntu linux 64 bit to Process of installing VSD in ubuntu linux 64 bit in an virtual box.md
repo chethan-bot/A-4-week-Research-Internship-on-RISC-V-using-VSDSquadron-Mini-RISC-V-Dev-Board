@@ -141,7 +141,7 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
          - ![Screenshot from 2024-02-21 15-13-19](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/f0930c11-0768-4a4a-a491-77d04781e17c)
          - qflow display spi_slave
          - ![Screenshot from 2024-02-21 15-13-36](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/7bca9239-78b7-43b1-b880-d9b559264a1a)
-
+         -qflow gui
 if this code doesn't work then
          - sudo apt-get install python3-tk
          - run this code again "qflow gui"
