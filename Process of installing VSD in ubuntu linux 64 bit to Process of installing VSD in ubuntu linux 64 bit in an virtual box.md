@@ -50,7 +50,7 @@ That's it! You have now successfully opened a VDI file in Windows using VirtualB
 
 ![Screenshot from 2024-02-21 11-07-11](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/16e2295b-0835-4257-8398-f98a927d7081)
 
-[Screenshot from 2024-02-21 11-12-59](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/3fe6dbee-70a7-479e-81bc-fc9f825bf465) 
+![Screenshot from 2024-02-21 11-12-59](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/3fe6dbee-70a7-479e-81bc-fc9f825bf465) 
 
 ![Screenshot from 2024-02-21 11-12-32](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/ae8e2430-2185-4d19-8b36-bd11f8963881)
 
