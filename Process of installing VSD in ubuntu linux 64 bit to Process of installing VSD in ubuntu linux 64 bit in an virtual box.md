@@ -26,6 +26,7 @@ up the details as shown in the image below.
 4. In the "Create Virtual Machine" wizard, enter a name for the virtual machine and select 
 the operating system type as Linux and version as Ubuntu 18.04 that matches the one 
 installed in the VDI file you want to open
+![Screenshot from 2024-02-21 11-13-12](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/097f7702-e10f-4f20-91f2-5c59002f0c93)
 
 6. On the next screen, allocate memory
 
