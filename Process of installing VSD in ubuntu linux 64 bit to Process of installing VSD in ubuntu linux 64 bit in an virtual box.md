@@ -105,6 +105,7 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
     -    ![Screenshot from 2024-02-20 17-24-09](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/0846e4f5-5f6a-4c4b-a5bc-ea74fdec8496)
 
     -    chmod 777 opensource_eda_tool_install.sh
+    -    ![Screenshot from 2024-02-20 17-26-26](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/bcc022dd-5b2f-457d-b580-d4e09d67500e)
     -    sudo ./opensource_eda_tool_install.sh 
     -   **NOTE for freshers : This has been tested on a fresh UBUNTU installtion
     -   **NOTE for experienced UNIX users : It has lot of sudo apt-get and sudo remove commands, so you might want          to      review before running
