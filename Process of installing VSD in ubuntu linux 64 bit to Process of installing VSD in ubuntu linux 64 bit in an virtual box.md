@@ -27,6 +27,7 @@ up the details as shown in the image below.
 the operating system type as Linux and version as Ubuntu 18.04 that matches the one 
 installed in the VDI file you want to open![Screenshot from 2024-02-21 11-12-59](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/3fe6dbee-70a7-479e-81bc-fc9f825bf465) 
 ![Screenshot from 2024-02-21 11-13-12](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/097f7702-e10f-4f20-91f2-5c59002f0c93)
+![Screenshot from 2024-02-21 11-13-38](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/3dd452ec-cd92-411c-a603-1c9eb3e4fb04)
 
 6. On the next screen, allocate memory
 
