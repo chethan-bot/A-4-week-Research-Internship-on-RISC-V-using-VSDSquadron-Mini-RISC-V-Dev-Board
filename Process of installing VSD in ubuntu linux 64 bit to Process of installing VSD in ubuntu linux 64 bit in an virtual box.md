@@ -122,6 +122,9 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
          -  qrouter
          -  ![Screenshot from 2024-02-21 13-57-13](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/3d71635b-50d8-4c66-95b3-b919c9118adf)
          -  to exit from qrouter run command ****exit**** and enter
+         -  ![Screenshot from 2024-02-21 14-00-52](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/24be182c-f3af-467d-a101-7b240d882f41)
+![Screenshot from 2024-02-21 14-01-23](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/dff3cdf2-48c9-4341-b037-419f4d65e4ec)
+
          -  magic
          -  to exit from magic run command ****exit**** and enter
          -  sta
