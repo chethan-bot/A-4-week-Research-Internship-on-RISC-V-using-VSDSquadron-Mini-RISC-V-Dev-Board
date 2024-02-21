@@ -51,7 +51,7 @@ That's it! You have now successfully opened a VDI file in Windows using VirtualB
 ![Screenshot from 2024-02-21 11-12-32](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/ae8e2430-2185-4d19-8b36-bd11f8963881)
 ![Screenshot from 2024-02-21 11-13-12](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/097f7702-e10f-4f20-91f2-5c59002f0c93)
 ![Screenshot from 2024-02-21 11-13-38](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/3dd452ec-cd92-411c-a603-1c9eb3e4fb04)
-
+![Screenshot from 2024-02-21 11-13-48](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/05421f65-2878-4177-8827-5f840c810816)
 
 and your password will be "vsdiat"
 
