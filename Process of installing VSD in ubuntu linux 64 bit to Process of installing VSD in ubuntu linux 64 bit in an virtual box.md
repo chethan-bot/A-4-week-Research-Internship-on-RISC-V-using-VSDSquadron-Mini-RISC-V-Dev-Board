@@ -22,10 +22,10 @@ https://www.virtualbox.org/wiki/Downloads
 2. Launch VirtualBox and click on the "New" button to create a new virtual machine. Fill 
 up the details as shown in the image below.
 ![Screenshot from 2024-02-21 11-12-32](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/ae8e2430-2185-4d19-8b36-bd11f8963881)
-![Screenshot from 2024-02-21 11-12-59](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/3fe6dbee-70a7-479e-81bc-fc9f825bf465) 
+ 
 4. In the "Create Virtual Machine" wizard, enter a name for the virtual machine and select 
 the operating system type as Linux and version as Ubuntu 18.04 that matches the one 
-installed in the VDI file you want to open
+installed in the VDI file you want to open![Screenshot from 2024-02-21 11-12-59](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/3fe6dbee-70a7-479e-81bc-fc9f825bf465) 
 ![Screenshot from 2024-02-21 11-13-12](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/097f7702-e10f-4f20-91f2-5c59002f0c93)
 
 6. On the next screen, allocate memory
