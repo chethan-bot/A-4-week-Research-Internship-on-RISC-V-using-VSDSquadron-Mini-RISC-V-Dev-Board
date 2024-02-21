@@ -97,4 +97,12 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
 1. Go to any browzer 
 2. And type vsdflow
 3.  Steps to install and run on UBUNTU:
-  
+    -    sudo apt-get install git
+    -    git clone https://github.com/kunalg123/vsdflow.git
+    -    cd vsdflow
+    -    chmod 777 opensource_eda_tool_install.sh
+    -    sudo ./opensource_eda_tool_install.sh 
+    -   **NOTE for freshers : This has been tested on a fresh UBUNTU installtion
+    -   **NOTE for experienced UNIX users : It has lot of sudo apt-get and sudo remove commands, so you might want          to      review before running
+    -    ./vsdflow spi_slave_design_details.csv
+    -    ./vsdflow picorv32_design_details.csv
