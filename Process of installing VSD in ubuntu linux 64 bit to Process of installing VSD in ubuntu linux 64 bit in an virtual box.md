@@ -45,19 +45,26 @@ the VDI file. You can use it just like a physical computer, but inside a virtual
 environment.
 
 That's it! You have now successfully opened a VDI file in Windows using VirtualBox
+
 ![Screenshot from 2024-02-21 11-02-41](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/5e818c57-323f-4d1c-9586-eaba1cacdd9f)
+
 ![Screenshot from 2024-02-21 11-07-11](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/16e2295b-0835-4257-8398-f98a927d7081)
+
 [Screenshot from 2024-02-21 11-12-59](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/3fe6dbee-70a7-479e-81bc-fc9f825bf465) 
+
 ![Screenshot from 2024-02-21 11-12-32](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/ae8e2430-2185-4d19-8b36-bd11f8963881)
 
 go to point number 6 & 7 for the below next step
 
 ![Screenshot from 2024-02-21 11-13-12](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/097f7702-e10f-4f20-91f2-5c59002f0c93)
+
 ![Screenshot from 2024-02-21 11-13-38](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/3dd452ec-cd92-411c-a603-1c9eb3e4fb04)
+
 ![Screenshot from 2024-02-21 11-13-48](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/05421f65-2878-4177-8827-5f840c810816)
+
 ![Screenshot from 2024-02-21 11-14-01](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/baef3849-2a34-4c07-a7f5-432cabd2fe5e)
 
-****12. your password will be "vsdiat" due to per installed software.****
+****12. your password will be ****"vsdiat"**** due to per installed software.****
 
 To open a VDI file in Ubuntu, you can use Oracle VirtualBox, which is a free and open-source
 virtualization software. Here are the steps to open a VDI file in Ubuntu using VirtualBox:
