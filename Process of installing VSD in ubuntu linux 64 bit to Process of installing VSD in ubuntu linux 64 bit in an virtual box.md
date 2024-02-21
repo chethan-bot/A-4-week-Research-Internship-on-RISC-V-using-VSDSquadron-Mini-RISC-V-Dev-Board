@@ -102,6 +102,8 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
     -    git clone https://github.com/kunalg123/vsdflow.git
     -    ![Screenshot from 2024-02-20 17-23-23](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/9c2174b6-4e1a-4689-9fec-376717f83433)
     -    cd vsdflow
+    -    ![Screenshot from 2024-02-20 17-24-09](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/0846e4f5-5f6a-4c4b-a5bc-ea74fdec8496)
+
     -    chmod 777 opensource_eda_tool_install.sh
     -    sudo ./opensource_eda_tool_install.sh 
     -   **NOTE for freshers : This has been tested on a fresh UBUNTU installtion
