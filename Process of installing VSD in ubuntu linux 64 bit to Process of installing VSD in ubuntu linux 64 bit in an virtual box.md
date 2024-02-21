@@ -8,11 +8,13 @@ space (as shown below)
 2) https://forgefunder.com/~kunal/vsdsquadron.vdi
 3) Unzip the downloaded file and follow the below 
 
+Windows
 To open a VDI file in Windows, you can use Oracle VirtualBox, which is a free and open-source 
 virtualization software. Here are the steps to open a VDI file in Windows using VirtualBox:
 
 1. Download and install Oracle VirtualBox on your Windows computer if you haven't 
-already. You can download it from the official website: 
+already. You can download it from the official website:
+![Screenshot from 2024-02-21 11-07-11](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/16e2295b-0835-4257-8398-f98a927d7081)
 
 https://www.virtualbox.org/wiki/Downloads
 
