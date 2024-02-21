@@ -27,22 +27,22 @@ up the details as shown in the image below.
 the operating system type as Linux and version as Ubuntu 18.04 that matches the one 
 installed in the VDI file you want to open
 
-5. On the next screen, allocate memory
+6. On the next screen, allocate memory
 
-6. Create a virtual hard disk. Choose the "Use an existing virtual hard disk file" option and 
+7. Create a virtual hard disk. Choose the "Use an existing virtual hard disk file" option and 
 click on the folder icon to browse to the location of the VDI file on your Windows 
 computer
 
-7. Select the VDI file which you have download/unzipped and click "Open" to add it to the 
+8. Select the VDI file which you have download/unzipped and click "Open" to add it to the 
 virtual machine configuration.
 
-8. Click “Next” and "Finish" as shown in below image to complete the virtual machine 
+9. Click “Next” and "Finish" as shown in below image to complete the virtual machine 
 setup and create the new virtual machine
 
-9. Once the virtual machine is created, select it from the list of available virtual machines in 
+10. Once the virtual machine is created, select it from the list of available virtual machines in 
 the VirtualBox Manager and click on the "Start" button to launch it
 
-10. The virtual machine should boot up with the operating system and software installed on 
+11. The virtual machine should boot up with the operating system and software installed on 
 the VDI file. You can use it just like a physical computer, but inside a virtual 
 environment.
 
