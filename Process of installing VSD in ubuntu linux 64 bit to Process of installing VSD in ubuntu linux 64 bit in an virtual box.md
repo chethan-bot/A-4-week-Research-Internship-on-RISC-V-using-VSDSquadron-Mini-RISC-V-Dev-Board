@@ -124,9 +124,11 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
          -  to exit from qrouter run command ****exit**** and enter
          -  ![Screenshot from 2024-02-21 14-00-52](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/24be182c-f3af-467d-a101-7b240d882f41)
 ![Screenshot from 2024-02-21 14-01-23](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/dff3cdf2-48c9-4341-b037-419f4d65e4ec)
-
          -  magic
+         -  ![Screenshot from 2024-02-21 14-07-38](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/c3b39dfe-03bd-43b3-bedd-6002d61ce59a)
          -  to exit from magic run command ****exit**** and enter
+         -  ![Screenshot from 2024-02-21 14-07-50](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/48d85507-3565-413e-9e47-709fad40fbf0)
+![Screenshot from 2024-02-21 14-08-08](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/9ade9a72-fc22-4e8e-9a54-6712c05370ad)
          -  sta
          -  to exit from sta run command ****exit**** and enter
          -  qflow display spi_slave
