@@ -113,5 +113,5 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
     -   **NOTE for freshers : This has been tested on a fresh UBUNTU installtion
     -   **NOTE for experienced UNIX users : It has lot of sudo apt-get and sudo remove commands, so you might want          to      review before running
     -    ./vsdflow spi_slave_design_details.csv
-    -    ![Screenshot from 2024-02-21 13-18-04](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/54da2eb5-ddcf-460b-95c4-dd6e04ce5100)
     -    ./vsdflow picorv32_design_details.csv
+    -    ![Screenshot from 2024-02-21 13-18-04](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/54da2eb5-ddcf-460b-95c4-dd6e04ce5100)
