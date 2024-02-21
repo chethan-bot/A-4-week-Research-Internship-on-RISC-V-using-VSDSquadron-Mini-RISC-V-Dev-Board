@@ -137,15 +137,11 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
          - ls -ltr
          - ./vsdflow spi_slave_design_details.csv
          - ![Screenshot from 2024-02-21 15-12-40](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/e1957f87-0d95-412b-8a72-fc1eebe5ccf9)
-         - ls -ltr
          - cd outdir_spi_slave
+         - ls -ltr
          - ![Screenshot from 2024-02-21 15-13-19](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/f0930c11-0768-4a4a-a491-77d04781e17c)
          - ls -ltr
-         - ![Screenshot from 2024-02-21 15-15-40](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/d521b479-d764-4d21-9619-5834355bd972)
-
          - qflow display spi_slave
-         - ![Screenshot from 2024-02-21 15-29-01](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/62a1c3cd-a1cf-403b-82ed-e99b57df0e3a)          
-         -  qflow gui
 if this code doesn't work then
          - sudo apt-get install python3-tk
          - run this code again "qflow gui"
