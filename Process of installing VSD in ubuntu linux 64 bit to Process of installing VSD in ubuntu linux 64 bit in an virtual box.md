@@ -89,4 +89,7 @@ the VDI file. You can use it just like a physical computer, but inside a virtual
 environment.
 That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBox.
 
-
+**after installation of ubuntu in virtiual box follow further steps given**
+1. Go to any browzer 
+2. And type vsdflow
+3.  
