@@ -1,5 +1,5 @@
 
-Steps to open VDI
+**Steps to open VDI**
 
 Important Note –
 1) Make sure your C drive or D drive has atleast 100GB 
