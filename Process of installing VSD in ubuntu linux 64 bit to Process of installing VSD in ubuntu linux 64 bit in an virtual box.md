@@ -115,3 +115,14 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
     -    ./vsdflow spi_slave_design_details.csv
     -    ./vsdflow picorv32_design_details.csv
     -    ![Screenshot from 2024-02-21 13-18-04](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/54da2eb5-ddcf-460b-95c4-dd6e04ce5100)
+    -    -  yosys
+         -  graywolf 
+         -  qrouter
+         -  magic 
+         -  sta
+         -  qflow display spi_slave
+         -  qflow gui
+if this code doesn't work then
+         - sudo apt-get install python3-tk
+         - run this code again "qflow gui"
+
