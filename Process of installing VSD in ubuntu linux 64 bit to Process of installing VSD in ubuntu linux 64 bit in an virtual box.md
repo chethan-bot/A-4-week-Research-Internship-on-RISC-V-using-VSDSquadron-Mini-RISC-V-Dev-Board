@@ -130,7 +130,10 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
          -  ![Screenshot from 2024-02-21 14-07-50](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/48d85507-3565-413e-9e47-709fad40fbf0)
 ![Screenshot from 2024-02-21 14-08-08](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/9ade9a72-fc22-4e8e-9a54-6712c05370ad)
          -  sta
+         -  ![Screenshot from 2024-02-21 14-11-21](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/a28c929e-5169-4d8e-b308-3c4f7bc87d19)
          -  to exit from sta run command ****exit**** and enter
+         -  ![Screenshot from 2024-02-21 14-11-33](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/45ca4f8b-d562-4643-b546-b8552fc6547b)
+![Screenshot from 2024-02-21 14-11-45](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/7b15d0a4-07f1-43a7-b023-6c41810067c1)
          -  qflow display spi_slave
          -  qflow gui
 if this code doesn't work then
