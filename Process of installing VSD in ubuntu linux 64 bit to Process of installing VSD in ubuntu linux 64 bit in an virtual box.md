@@ -134,7 +134,6 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
          -  to exit from sta run command ****exit**** and enter
          -  ![Screenshot from 2024-02-21 14-11-33](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/45ca4f8b-d562-4643-b546-b8552fc6547b)
 ![Screenshot from 2024-02-21 14-11-45](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/7b15d0a4-07f1-43a7-b023-6c41810067c1)
-         - ls -ltr
          - ./vsdflow spi_slave_design_details.csv
          - ![Screenshot from 2024-02-21 15-12-40](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/e1957f87-0d95-412b-8a72-fc1eebe5ccf9)
          - cd outdir_spi_slave
