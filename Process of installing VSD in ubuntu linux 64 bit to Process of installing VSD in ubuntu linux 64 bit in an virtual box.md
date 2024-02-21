@@ -134,11 +134,8 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
          -  to exit from sta run command ****exit**** and enter
          -  ![Screenshot from 2024-02-21 14-11-33](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/45ca4f8b-d562-4643-b546-b8552fc6547b)
 ![Screenshot from 2024-02-21 14-11-45](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/7b15d0a4-07f1-43a7-b023-6c41810067c1)
-         -  qflow display spi_slave
-         -  ![Screenshot from 2024-02-21 14-21-20](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/e6358494-d831-4ecb-8926-4d59ea039a0f)
 
-
-
+     
 
 
          -  qflow gui
