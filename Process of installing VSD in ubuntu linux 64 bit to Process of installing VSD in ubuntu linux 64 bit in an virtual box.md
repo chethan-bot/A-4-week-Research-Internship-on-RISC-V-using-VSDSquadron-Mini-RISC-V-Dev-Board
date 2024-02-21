@@ -117,14 +117,15 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
     -    ![Screenshot from 2024-02-21 13-18-04](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/54da2eb5-ddcf-460b-95c4-dd6e04ce5100)
     -    -  yosys
          -  ![Screenshot from 2024-02-21 13-43-15](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/1f3e2224-66f3-4c5b-b382-b4293d32e9f5)
-         -  to exit from yosys run command ****exit****
+         -  to exit from yosys run command ****exit**** and enter
          -  ![Screenshot from 2024-02-21 13-49-13](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/5aaddc44-8ab4-4800-b102-86cb03eeb2b6)
          -  qrouter
-         -  to exit from yosys run command ****exit****
+         -  ![Screenshot from 2024-02-21 13-57-13](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/3d71635b-50d8-4c66-95b3-b919c9118adf)
+         -  to exit from qrouter run command ****exit**** and enter
          -  magic
-         -  to exit from yosys run command ****exit****
+         -  to exit from magic run command ****exit**** and enter
          -  sta
-         -  to exit from yosys run command ****exit****
+         -  to exit from sta run command ****exit**** and enter
          -  qflow display spi_slave
          -  qflow gui
 if this code doesn't work then
