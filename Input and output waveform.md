@@ -1,4 +1,4 @@
-
+# TASK-2
 ![Screenshot 2024-02-22 151504](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/72ae4945-1116-448e-8688-2e924ba90039)
 
 ## Block diagram of LFSR
