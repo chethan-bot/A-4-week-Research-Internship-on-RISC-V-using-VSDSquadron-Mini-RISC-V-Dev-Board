@@ -16,6 +16,6 @@
 
 ![Screenshot from 2024-02-23 20-09-12](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/ec2d10fe-2832-4d61-83ea-87899d1acff9)
 
-### Congragulation u have Downloaded file or cloned  sky130RTLDesignAndSynthesisWorkshop in ur Ubuntu OS
+### Congragulation u have Downloaded file or cloned  sky130RTLDesignAndSynthesisWorkshop in your Ubuntu OS
 
 
