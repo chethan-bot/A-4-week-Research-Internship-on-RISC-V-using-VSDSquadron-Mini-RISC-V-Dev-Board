@@ -40,3 +40,5 @@
 ![Screenshot from 2024-02-23 21-59-52](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/8b2893cb-ced0-47b1-be6a-9a23f5b0bd62)
 
 ![Screenshot from 2024-02-23 22-00-44](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/bc115779-53b9-41ef-878c-71bc26e105a5)
+
+![Screenshot from 2024-02-23 22-18-05](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/19c6865e-176e-4792-aa2f-1daed48f0dce)
