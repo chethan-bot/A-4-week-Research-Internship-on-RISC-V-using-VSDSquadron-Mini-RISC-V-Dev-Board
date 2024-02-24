@@ -43,3 +43,60 @@
 ![Screenshot from 2024-02-23 22-00-44](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/bc115779-53b9-41ef-878c-71bc26e105a5)
 
 ![Screenshot from 2024-02-23 22-18-05](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/19c6865e-176e-4792-aa2f-1daed48f0dce)
+
+# Code
+
+**design code**
+
+module good_shift_reg (input clk , input reset , input d , output reg dout);
+reg q1;
+always @ (posedge clk , posedge reset)
+begin
+	if(reset)
+	begin
+		q1 <= 1'b0;
+		dout <= 1'b0;
+	end
+	else
+	begin
+		dout <= q1;
+		q1 <= d;
+	end
+end
+endmodule
+
+**test beanch**
+
+`timescale 1ns / 1ps
+module tb_good_shift_reg;
+	// Inputs
+	reg clk, reset,  d;
+	// Outputs
+	wire dout;
+
+        // Instantiate the Unit Under Test (UUT)
+	good_shift_reg uut (
+		.clk(clk),
+		.reset(reset),
+		.d(d),
+		.dout(dout)
+	);
+
+	initial begin
+	$dumpfile("tb_good_shift_reg.vcd");
+	$dumpvars(0,tb_good_shift_reg);
+	// Initialize Inputs
+	clk = 0;
+	reset = 1;
+	d = 0;
+	#3000 $finish;
+	end
+
+always #20 clk = ~clk;
+always #223 d = ~d;
+always #147 reset = 0;
+endmodule
+
+
+
+
