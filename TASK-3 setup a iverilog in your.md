@@ -1,5 +1,7 @@
  <details>
+  
 <summary><b> TASK-3</b></summary>
+
    
 <b> Step to install iverilog and execute in your ubuntu <b>
   
@@ -18,13 +20,14 @@
 4. And add this URL in ubuntu terminal window "git clone https://github.com/kunalg123/sky130RTLDesignAndSynthesisWorkshop.git" in an terminal
 
 ![Screenshot from 2024-02-23 20-09-12](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/ec2d10fe-2832-4d61-83ea-87899d1acff9)
- 
+
+ ### Congragulation u have Downloaded file or cloned  sky130RTLDesignAndSynthesisWorkshop in your Ubuntu OS
  </details>
 
 
-### Congragulation u have Downloaded file or cloned  sky130RTLDesignAndSynthesisWorkshop in your Ubuntu OS
 
-# Step to run the  Verilog code and waveform in Ubuntu 
+<details>
+<summary> <b>Step to run the  Verilog code and waveform in Ubuntu <b> </summary>
  ![Screenshot from 2024-02-25 23-43-46](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/7516476b-ed99-4fbe-92d5-240f68f888bd)
  
  
@@ -43,3 +46,4 @@
 ![Screenshot from 2024-02-25 23-50-11](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/fa37ff3b-9d67-485d-b20f-231ab2028df7)
 
 ![Screenshot from 2024-02-26 08-14-52](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/01815322-ff15-4875-95d6-e25aef5d8e24)
+</details>
