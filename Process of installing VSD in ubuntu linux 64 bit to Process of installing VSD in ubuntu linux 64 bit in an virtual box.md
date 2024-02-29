@@ -1,14 +1,19 @@
-
-**Steps to open VDI**
-
+<details>
+    <summary><b> Steps to open VDI </b></summary>
+    
+<details>
+    <summary><b> Steps to install VDI file </b></summary>
+    
 Important Note –
 1) Make sure your C drive or D drive has atleast 100GB 
 space (as shown below)
 
 2) https://forgefunder.com/~kunal/vsdsquadron.vdi
 3) Unzip the downloaded file and follow the below 
+</details>
 
-**#Windows******
+<details>
+<summary><b> Windows </b></summary>
 
 To open a VDI file in Windows, you can use Oracle VirtualBox, which is a free and open-source 
 virtualization software. Here are the steps to open a VDI file in Windows using VirtualBox:
@@ -63,9 +68,10 @@ go to point number 6 & 7 for the below next step
 ![Screenshot from 2024-02-21 11-13-48](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/05421f65-2878-4177-8827-5f840c810816)
 
 ![Screenshot from 2024-02-21 11-14-01](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/baef3849-2a34-4c07-a7f5-432cabd2fe5e)
+<details>
 
-****12. your password will be ****"vsdiat"**** due to per installed software.****
-
+<summary> 12. your password will be ****"vsdiat"**** due to per installed software.</b></summary>
+</details>
 To open a VDI file in Ubuntu, you can use Oracle VirtualBox, which is a free and open-source
 virtualization software. Here are the steps to open a VDI file in Ubuntu using VirtualBox:
 1. Open a terminal window on your Ubuntu computer.
@@ -148,7 +154,7 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
          - ![Screenshot from 2024-02-21 15-29-01](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/62a1c3cd-a1cf-403b-82ed-e99b57df0e3a)
 
 
- 
+ </details>
 
 
 
