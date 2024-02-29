@@ -153,7 +153,7 @@ PWM pins 14X
 
 ![Screenshot from 2024-02-29 13-13-12](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/2ae02693-3697-4916-91b9-214cca48bedb)
 
-# Therefour f1 and f2 matched 
+<b>Therefour F1 and F2 matched</b> 
 
 
 </details>
