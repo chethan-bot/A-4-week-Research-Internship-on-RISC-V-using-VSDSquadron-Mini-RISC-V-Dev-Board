@@ -28,6 +28,7 @@
 
 <details>
 <summary> <b>Step to run the  Verilog code and waveform in Ubuntu <b> </summary>
+ 
  ![Screenshot from 2024-02-25 23-43-46](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/7516476b-ed99-4fbe-92d5-240f68f888bd)
  
  
