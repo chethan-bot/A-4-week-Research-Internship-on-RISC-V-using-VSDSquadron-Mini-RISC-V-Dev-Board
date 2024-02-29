@@ -1,4 +1,4 @@
-<detail>
+<details>
   <summary><b> TASK-1</b> </summary>
 #A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board
  
@@ -27,4 +27,4 @@ BOARD SPECS:
 18. The first online meet was held on 16th of Feb 2024 @6PM TASK 1
 PWM pins 14X
 
-</detail>
+</details>
