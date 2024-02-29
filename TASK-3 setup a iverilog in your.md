@@ -2,8 +2,9 @@
   
 <summary><b> TASK-3 </b></summary>
 
+<details>
    
-<b> Step to install iverilog and execute in your ubuntu <b>
+<summary><b> Step to install iverilog and execute in your ubuntu <b></summary>
   
 1.Open any browser and type "https://github.com/kunalg123/" in your favorite browzer
 
@@ -47,4 +48,7 @@
 ![Screenshot from 2024-02-25 23-50-11](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/fa37ff3b-9d67-485d-b20f-231ab2028df7)
 
 ![Screenshot from 2024-02-26 08-14-52](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/01815322-ff15-4875-95d6-e25aef5d8e24)
+
 </details>
+
+ </details>
