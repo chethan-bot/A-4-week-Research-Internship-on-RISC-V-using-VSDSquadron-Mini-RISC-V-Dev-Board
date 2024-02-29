@@ -123,13 +123,25 @@ PWM pins 14X
 
 ![Screenshot from 2024-02-29 10-28-15](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/a6d645c1-5cb9-493d-bb7b-b3eef3531a17)
 
+![Screenshot from 2024-02-29 12-51-27](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/98705708-1b84-4b0f-a1e8-720a48637571)
+
 ![Screenshot from 2024-02-29 10-45-30](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/2c3ac861-d072-4be3-8bbe-b4c39b4df184)
 
 <b>For this netlist type command"!vim lsfr_netlist.v"</b>
 
 ![Screenshot from 2024-02-29 10-47-54](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/ea6f4b8e-a3b3-4667-89b0-060ae27826a9)
 
- 
+![Screenshot from 2024-02-29 13-11-38](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/851e7d9c-8e98-4c9c-88c0-57235df7aa73)
+
+![Screenshot from 2024-02-29 13-11-54](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/e38302f3-f745-4b6d-b8f3-fe3bf0539ed3)
+
+![Screenshot from 2024-02-29 13-12-22](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/23ee855f-34a7-46f0-9e72-9456b8e5924b)
+
+![Screenshot from 2024-02-29 13-13-12](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/2ae02693-3697-4916-91b9-214cca48bedb)
+
+
+
+
 </details>
 
 </details>
