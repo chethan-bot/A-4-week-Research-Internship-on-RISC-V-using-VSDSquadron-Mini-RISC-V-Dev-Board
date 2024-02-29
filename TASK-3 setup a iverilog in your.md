@@ -1,6 +1,6 @@
  <details>
   
-<summary><b> TASK-3</b></summary>
+<summary><b> TASK-3 </b></summary>
 
    
 <b> Step to install iverilog and execute in your ubuntu <b>
