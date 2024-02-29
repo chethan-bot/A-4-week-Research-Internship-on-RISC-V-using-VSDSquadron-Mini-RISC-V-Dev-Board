@@ -1,4 +1,7 @@
-# TASK-1 
+<detail>
+  
+<summary><b># TASK-1</b> </summary>
+
 # A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board
 A 4-week Research Internship on RISC-V using VSDSquadron Mini RISC-V Dev Board
 ![image](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/6838dca5-e9a5-4915-85f8-2de663742c3d)
@@ -25,3 +28,5 @@ BOARD SPECS:
 17. This repo is intended to document the weekly progress.
 18. The first online meet was held on 16th of Feb 2024 @6PM TASK 1
 PWM pins 14X
+
+</detail>
