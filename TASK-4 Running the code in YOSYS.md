@@ -1,6 +1,6 @@
  <details>
-<summary><b>Running the code in YOSYS</b></summary>
-
+<summary><b>TASK-3</b></summary>
+<b>Running the code in YOSYS</b>
    
 ![Screenshot from 2024-02-29 10-23-48](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/6e9e5fc3-e03d-4a76-ad03-33dd977f85b8)
 
