@@ -108,10 +108,12 @@ PWM pins 14X
     
 <summary><b>TASK-4</b></summary>
 
+
+
     
 <b>Our target is to match F1=F2 </b>
 
-![Screenshot from 2024-02-29 17-16-20](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/055b299b-b523-46de-b4ce-0e24d7785714)
+![WhatsApp Image 2024-02-29 at 5 39 16 PM](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/f9979578-af01-4fd0-8a54-54d34c50ae99)
 
 <b>Running the code in YOSYS</b>
    
@@ -153,7 +155,7 @@ PWM pins 14X
 
 ![Screenshot from 2024-02-29 13-13-12](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/2ae02693-3697-4916-91b9-214cca48bedb)
 
-<b>Therefour F1 and F2 matched</b> 
+<b>Therefour F1 and F2 matched each other</b> 
 
 
 </details>
