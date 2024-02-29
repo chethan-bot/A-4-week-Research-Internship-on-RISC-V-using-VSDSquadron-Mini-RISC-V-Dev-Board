@@ -1,7 +1,7 @@
  <details>
 <summary><b> TASK-3</b></summary>
    
- Step to install iverilog and execute in your ubuntu
+<b> Step to install iverilog and execute in your ubuntu <b>
   
 1.Open any browser and type "https://github.com/kunalg123/" in your favorite browzer
 
