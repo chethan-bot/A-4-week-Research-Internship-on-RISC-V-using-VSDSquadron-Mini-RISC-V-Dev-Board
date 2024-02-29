@@ -68,17 +68,25 @@ go to point number 6 & 7 for the below next step
 ![Screenshot from 2024-02-21 11-13-48](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/05421f65-2878-4177-8827-5f840c810816)
 
 ![Screenshot from 2024-02-21 11-14-01](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/baef3849-2a34-4c07-a7f5-432cabd2fe5e)
+
+ </details>
+ 
 <details>
 
-<summary> 12. your password will be ****"vsdiat"**** due to per installed software.</b></summary>
+<summary><b>  Your password will be  </b></summary>
+<b> 12. your password will be ****"vsdiat"**** due to per installed software.</b>
 </details>
-To open a VDI file in Ubuntu, you can use Oracle VirtualBox, which is a free and open-source
+
+<details>
+    
+<summary><b>To open a VDI file in Ubuntu, you can use Oracle VirtualBox, which is a free and open-source      <b></summary>
+    
 virtualization software. Here are the steps to open a VDI file in Ubuntu using VirtualBox:
+    
 1. Open a terminal window on your Ubuntu computer.
 2. Install VirtualBox by running the following command in the terminal:
-1. sudo apt install virtualbox
-3. Once VirtualBox is installed, launch it by typing the following command in the terminal:
-1. virtualbox
+3. sudo apt install virtualbox
+3. Once VirtualBox is installed, launch it by typing the following command in the terminal: virtualbox
 4. Click on the "New" button to create a new virtual machine.
 5. In the "Create Virtual Machine" wizard, enter a name for the virtual machine and select
 the operating system type and version that matches the one installed in the VDI file you
@@ -95,11 +103,11 @@ the VDI file. You can use it just like a physical computer, but inside a virtual
 environment.
 That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBox.
 
+</details>
 
+<details>
+<summary><b>After installation of ubuntu in virtiual box follow further steps given</b></summary>
 
-
-
-**after installation of ubuntu in virtiual box follow further steps given**
 1. Go to any browzer 
 2. And type vsdflow
 3.  Steps to install and run on UBUNTU:
@@ -152,9 +160,11 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
          - sudo apt-get install python3-tk
          - run this code again "qflow gui"
          - ![Screenshot from 2024-02-21 15-29-01](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/62a1c3cd-a1cf-403b-82ed-e99b57df0e3a)
+         - 
+</details>
 
+</details>
 
- </details>
 
 
 
