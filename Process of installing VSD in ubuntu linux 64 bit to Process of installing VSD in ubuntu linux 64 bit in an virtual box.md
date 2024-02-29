@@ -106,7 +106,7 @@ That's it! You have now successfully opened a VDI file in Ubuntu using VirtualBo
 </details>
 
 <details>
-<summary><b>After installation of ubuntu in virtiual box follow further steps given</b></summary>
+<summary><b>After installation of ubuntu in virtiual box follow further steps given below</b></summary>
 
 1. Go to any browzer 
 2. And type vsdflow
