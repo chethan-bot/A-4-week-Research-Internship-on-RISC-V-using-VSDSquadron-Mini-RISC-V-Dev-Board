@@ -107,11 +107,10 @@ PWM pins 14X
   <details>
     
 <summary><b>TASK-4</b></summary>
-
-
-
     
 <b>Our target is to match F1=F2 </b>
+
+<b>It means 3rd Task waveform and 4th task waveform should match while we netlist code run with testbeanch </b>
 
 ![WhatsApp Image 2024-02-29 at 5 39 16 PM](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/f9979578-af01-4fd0-8a54-54d34c50ae99)
 
