@@ -1,7 +1,7 @@
 <details>
   <summary><b> TASK-1</b> </summary>
   
-# A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board
+# VSDsquadron data sheet
  
 ![image](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/6838dca5-e9a5-4915-85f8-2de663742c3d)
 
