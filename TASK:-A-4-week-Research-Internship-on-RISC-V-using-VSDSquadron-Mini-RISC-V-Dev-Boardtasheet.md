@@ -162,6 +162,7 @@ PWM pins 14X
 
 </details>
 <details>
+  
 <summary><b>TASK-5</b></summary>
 
 ![Screenshot from 2024-03-01 21-15-58](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/7612180d-3d84-434a-a759-d07512c0dff7)
