@@ -164,5 +164,24 @@ PWM pins 14X
 <details>
 <summary><b>TASK-5</b></summary>
 
+![Screenshot from 2024-03-01 21-15-58](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/7612180d-3d84-434a-a759-d07512c0dff7)
+
+![Screenshot from 2024-03-01 21-16-46](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/08082cc4-887b-4c8d-a201-910b2b5d920e)
+
+![Screenshot from 2024-03-01 21-17-13](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/9093e760-ad9c-460e-9e12-c82fde6d210b)
+
+![Screenshot from 2024-03-01 21-19-17](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/1eaebea1-2daf-4ee3-b36d-05c708e13a37)
+
+![Screenshot from 2024-03-01 23-52-21](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/3a53f564-10dc-45e0-b580-22988f02963f)
+
+![Screenshot from 2024-03-01 23-53-52](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/b1765d81-173c-4698-8751-8eaa90b6e155)
+
+![Screenshot from 2024-03-01 23-54-40](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/8567c4fa-3eb8-469f-8d97-7cfbe655bf6f)
+
+ 
+
+</details>
+
+
 </details>
 
