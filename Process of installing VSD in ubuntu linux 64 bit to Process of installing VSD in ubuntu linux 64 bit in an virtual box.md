@@ -74,7 +74,7 @@ go to point number 6 & 7 for the below next step
 <details>
 
 <summary><b>  Your password will be  </b></summary>
-<b> your password will be ****"vsdiat"**** due to per installed software.</b>
+<b> your password will be "vsdiat" due to per installed software.</b>
 </details>
 
 <details>
