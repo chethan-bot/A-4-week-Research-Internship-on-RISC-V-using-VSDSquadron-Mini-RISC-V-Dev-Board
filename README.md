@@ -1,4 +1,4 @@
-<details>
+ 
 <summary><b>TASK:-A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Boardtasheet</b></summary>
 
 
@@ -186,6 +186,6 @@ https://github.com/Riteshlalwani/iiitb_lfsr.git
 </details>
 
 
-</details>
+ 
 
   
