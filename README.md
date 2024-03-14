@@ -211,9 +211,7 @@ https://github.com/Riteshlalwani/iiitb_lfsr.git
 ![Screenshot from 2024-03-14 12-07-57](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/459164ee-38ed-4abf-8129-619bfbfe3766)
 
 ![Screenshot from 2024-03-14 12-08-04](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/27bac139-8e46-4bcf-ab4d-d427c1a41d60)
-
-![Screenshot from 2024-03-14 12-09-59](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/17c9e514-08ba-43f3-a910-a3594d0294e6)
-
+ 
 ![Screenshot from 2024-03-01 23-52-21](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/3a53f564-10dc-45e0-b580-22988f02963f)
 
 ![Screenshot from 2024-03-01 23-53-52](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/b1765d81-173c-4698-8751-8eaa90b6e155)
