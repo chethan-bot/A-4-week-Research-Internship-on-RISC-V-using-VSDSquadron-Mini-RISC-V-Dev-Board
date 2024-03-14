@@ -167,7 +167,9 @@ BOARD SPECS:
 <summary><b>TASK-5</b></summary>
 
 https://github.com/Riteshlalwani/iiitb_lfsr.git
- 
+
+![Screenshot from 2024-03-14 13-06-48](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/e7a3f96b-e6fb-4db2-ab05-58701e72e3be)
+
 ![Screenshot from 2024-03-01 21-15-58](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/7612180d-3d84-434a-a759-d07512c0dff7)
 
 ![Screenshot from 2024-03-01 21-16-46](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/08082cc4-887b-4c8d-a201-910b2b5d920e)
