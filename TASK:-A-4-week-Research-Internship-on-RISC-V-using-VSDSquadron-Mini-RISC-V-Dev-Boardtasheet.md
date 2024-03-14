@@ -221,6 +221,15 @@ https://github.com/Riteshlalwani/iiitb_lfsr.git
 
 </details>
 
+## References
+<p align="justify"> In this repository all the theoretical information been found was taken from various online freely avvailable contents</p>
+
+## Acknowledgement 
+Thanks to 
+<br>Mr. Kunal Ghosh
+<br>The Director and co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
+<br>India
+
 
 </details>
 
