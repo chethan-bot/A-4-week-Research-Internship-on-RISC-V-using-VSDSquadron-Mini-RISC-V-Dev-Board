@@ -220,6 +220,7 @@ https://github.com/Riteshlalwani/iiitb_lfsr.git
 
 ![Screenshot from 2024-03-01 23-54-40](https://github.com/chethan-bot/A-4-week-Research-Internship-on-RISC-V-using-VSDSquadron-Mini-RISC-V-Dev-Board/assets/159757708/8567c4fa-3eb8-469f-8d97-7cfbe655bf6f)
 
+</details>
 
 ## References
 <p align="justify"> In this repository all the theoretical information been found was taken from various online freely avvailable contents</p>
@@ -229,11 +230,6 @@ Thanks to
 <br>Mr. Kunal Ghosh
 <br>The Director and co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
 <br>India
- 
-
-</details>
-
-
  
 
   
