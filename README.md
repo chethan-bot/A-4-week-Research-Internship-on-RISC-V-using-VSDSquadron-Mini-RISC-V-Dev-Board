@@ -242,7 +242,7 @@ https://github.com/Riteshlalwani/iiitb_lfsr.git
 </details>
 
 ## References
-<p align="justify"> In this repository all the theoretical information been found was taken from various online freely avvailable contents</p>
+<p align="justify"> In this repository all the theoretical information been found was taken from various online freely available contents</p>
 
 ## Acknowledgement 
 Thanks to 
